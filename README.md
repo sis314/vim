@@ -1,5 +1,5 @@
 # vim
 vim setting
 
-put .vimrc and .vim in user directory
-put dein in ~/.cache
+put　```.vimrc``` and ```.vim``` in　```/home/user```<br>
+put ```dein``` in ```/home/user/.cache```
